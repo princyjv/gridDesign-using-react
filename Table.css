@@ -1,0 +1,66 @@
+
+  .image-section{
+    Width: 100%;
+    border-radius: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    }
+    .container {
+        padding-right:90px;
+ 
+      margin-top: 24px;
+      margin-bottom: 24px ;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    .item{
+     
+       width:33.33%;
+      width: calc(33.33% - 140px);
+      border-radius: 10px;
+       box-shadow: 0px 0px 2px   #0084ff;
+       
+      
+        margin:10px;
+    
+    
+    }
+    .text{
+      font-family: Raleway; 
+    font-size: 18px;
+    text-align: left;
+    margin: 0;
+    font-weight: 600;
+    padding: 10px 24px;
+    
+    
+    }
+    .author{
+    font-family: Raleway;
+    padding-top: 4px;
+    padding-left: 26px;
+    color: #0096ff;
+    font-size: 14px;
+    font-style: Italic;
+    font-weight:500;
+    }
+    .date{
+     
+      color: rgba(0,0,0,0.7);
+    font-size: 14px;
+    font-weight: 300;
+    padding-left: 4px;
+    }
+    
+    .para{
+      
+    font-family: Raleway;
+    padding: 0px 10px 0px 24px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.43;
+    color: rgba(0,0,0,.6);
+    margin: 4px 0;
+    }
